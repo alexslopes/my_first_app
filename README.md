@@ -1,6 +1,7 @@
 # my_first_app
 
-A new Flutter project.
+Projto feito com tutorial:
+https://codelabs.developers.google.com/codelabs/flutter-codelab-first?hl=pt-br#0
 
 ## Getting Started
 
